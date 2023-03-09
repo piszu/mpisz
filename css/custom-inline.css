@@ -1,0 +1,37 @@
+#Top_bar {
+        border-bottom: 1px solid #c3d8e0;
+      }
+
+      #intro .ui-tabs {
+        margin-bottom: 0;
+        border-bottom: 0;
+      }
+      #intro .ui-tabs .ui-tabs-panel {
+        padding: 15px 3% 0 !important;
+      }
+      #intro .ui-tabs .ui-tabs-nav li a {
+        font-size: 18px;
+        padding: 16px 30px !important;
+      }
+
+      /* Form */
+      .newsletter_form .column {
+        margin-bottom: 0;
+      }
+      input[type="text"],
+      input[type="password"],
+      input[type="email"],
+      input[type="tel"],
+      textarea,
+      select {
+        margin-bottom: 10px;
+      }
+
+      .section-border-bottom {
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+      }
+
+      .mc4wp-alert {
+        float: left;
+        width: 100%;
+      }
